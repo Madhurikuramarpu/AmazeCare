@@ -1,0 +1,21 @@
+.admin {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Adjust the space between buttons as needed */
+  }
+  
+  .button-container .btn {
+    flex: 1;
+    max-width: 200px; /* Adjust as needed */
+    margin: 0 5px; /* Adjust as needed */
+  }
+  .marquee {
+    font-size: 24px;
+    color: red; 
+    font-weight: bold; 
+  }
